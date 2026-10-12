@@ -1,150 +1,114 @@
-<h1 align="center">Hi 👋, I'm Mohammed Abdul Mubashir</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | DSA Enthusiast | Machine Learning Learner</h3>
+# Mohammed Abdul Mubashir
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul0015&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### Software Developer | Backend Development | AI & Machine Learning
+
+I'm a developer passionate about building practical software solutions, developing web applications, and exploring artificial intelligence. I enjoy learning new technologies, solving problems through code, and turning ideas into functional projects.
+
+- 💻 Interested in backend development and full-stack applications
+- ⚙️ Working with Node.js, Express.js, Java, and Python
+- 🤖 Exploring machine learning and computer vision
+- 🚀 Focused on continuous learning and building real-world projects
+- 🤝 Open to collaboration and opportunities to grow as a developer
+
+---
+
+## Technical Skills
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript"/>
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" alt="HTML, CSS, Node.js, Express.js"/>
+</p>
+
+**AI / Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="OpenCV and TensorFlow"/>
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## Featured Projects
 
-🎓 B.Tech in Computer Science Engineering
+## 🚀 Featured Projects
 
-💻 Passionate about Software Development, Data Structures & Algorithms, and Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
-🌱 Currently Learning:
-- Advanced Java
-- Data Structures & Algorithms
-- Full Stack Development
-- Machine Learning & Deep Learning
+**[Food and Beverage Calorie Estimation](https://github.com/Abdul0015/Calorie-estimation-of-food-and-beverages)**  
+Developed a deep learning-based application for food image classification and calorie estimation. Integrates a trained MobileNet model with nutritional data to provide food-related insights.
 
-🔭 Building projects that solve real-world problems
+**[Adversarial Robustness — Student-Teacher Network](https://github.com/Abdul0015/Detection-and-Defense-Student-Teacher-Network-for-Adversarial-Robustness)**  
+Explores adversarial example detection and defense mechanisms using a student-teacher neural network architecture. Focuses on improving the reliability of deep learning models against adversarial inputs.
 
-⚡ Interested in Software Development, AI/ML, and Problem Solving
+**[Construction Site Safety](https://github.com/Abdul0015/ConstructionSite-safety-)**  
+A project focused on applying technology to construction site safety monitoring and hazard identification. Aims to support safer working environments through technology-driven safety analysis.
 
-📈 Consistently improving coding and development skills
+### 🌐 Web Development
 
----
+**[Student Alumni Portal — SIH](https://github.com/Abdul0015/Student_Alumni_portal--SIH)**  
+A web-based platform designed to strengthen connections between students and alumni. Focuses on professional networking, knowledge sharing, and alumni engagement.
 
-## 🛠️ Tech Stack
+**[URL Shortener](https://github.com/Abdul0015/url-shortner)**  
+A web application designed to simplify long URLs into shorter, shareable links. Explores URL processing and redirection to improve link sharing.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ☕ Java Development
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**[Currency Converter](https://github.com/Abdul0015)**  
+Developed a desktop-based currency converter using Java Swing to provide an interactive graphical interface. Supports currency selection, conversion calculations using predefined exchange rates, and formatted results.
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔐 JavaScript
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**[Password Generator](https://github.com/Abdul0015/password_generator)**  
+Built an interactive web application for generating customizable passwords based on user-selected character types and length. Includes a streamlined interface and clipboard functionality for convenient password copying.
 
----
 
-## 📂 Featured Projects
+## GitHub Analytics
 
-### 🍽️ SmartBite – Food Recognition & Calorie Estimation
-- Deep Learning-based food recognition system
-- Uses MobileNet and CNN models
-- Estimates calorie intake from food images
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul0015&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul0015&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+</p>
 
-**Tech Stack:** Python, TensorFlow, Deep Learning
-
----
-
-### ✏️ Handwritten Digit Recognition
-- CNN model trained on the MNIST dataset
-- Achieved high accuracy in digit classification
-- Built using TensorFlow and Python
-
-**Tech Stack:** Python, TensorFlow, CNN
-
----
-
-### 🎨 Image to Sketch Converter
-- Converts images into sketch-style drawings
-- Uses image processing techniques
-
-**Tech Stack:** Python, OpenCV
-
----
-
-### 💱 Currency Converter
-- Java-based currency conversion application
-- Supports multiple currencies
-
-**Tech Stack:** Java
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Abdul0015" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-abdul-mubashir-2174b1335/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://leetcode.com/u/abdul_05/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
-</a>
-
-<a href="https://www.codechef.com/users/abdul_05" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef">
-</a>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Abdul0015&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 📈 Coding Profiles
+## Current Focus
 
-- 💻 GitHub: https://github.com/Abdul0015
-- 🧩 LeetCode: https://leetcode.com/u/abdul_05/
-- ⚡ CodeChef: https://www.codechef.com/users/abdul_05
-- 👨‍💼 LinkedIn: https://www.linkedin.com/in/mohammed-abdul-mubashir-2174b1335/
+- Building backend applications with **Node.js and Express.js**
+- Improving software design and problem-solving skills
+- Exploring AI, machine learning, and computer vision
+- Developing useful projects and strengthening my portfolio
 
 ---
 
-## 📊 GitHub Statistics
+## Let's Connect
+
+<p>
+  <a href="https://github.com/Abdul0015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-abdul-mubashir-2174b1335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul0015&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <i>"Build consistently. Learn continuously. Improve every day."</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul0015&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Master Data Structures & Algorithms
-- Become proficient in Full Stack Development
-- Contribute to Open Source Projects
-- Build impactful AI/ML applications
-- Secure a Software Development role
-
----
-
-## 💡 Favorite Quote
-
-> "Consistency beats talent when talent doesn't work hard."
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
