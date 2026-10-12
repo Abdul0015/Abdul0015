@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Mubashir</h1>
 <h3 align="center">Computer Science Engineering Student | Java Developer | DSA Enthusiast | Machine Learning Learner</h3>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdul0015&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
+</p>
 
 ---
 
